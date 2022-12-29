@@ -1,0 +1,15 @@
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\bin\Debug\net6.0\FinalWork1.exe
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\bin\Debug\net6.0\FinalWork1.deps.json
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\bin\Debug\net6.0\FinalWork1.runtimeconfig.json
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\bin\Debug\net6.0\FinalWork1.dll
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\bin\Debug\net6.0\FinalWork1.pdb
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\obj\Debug\net6.0\FinalWork1.csproj.AssemblyReference.cache
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\obj\Debug\net6.0\FinalWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\obj\Debug\net6.0\FinalWork1.AssemblyInfoInputs.cache
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\obj\Debug\net6.0\FinalWork1.AssemblyInfo.cs
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\obj\Debug\net6.0\FinalWork1.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\obj\Debug\net6.0\FinalWork1.dll
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\obj\Debug\net6.0\refint\FinalWork1.dll
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\obj\Debug\net6.0\FinalWork1.pdb
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\obj\Debug\net6.0\FinalWork1.genruntimeconfig.cache
+C:\Users\Elena\Desktop\Обучение в ГБ\Task000\Task\FinalWork1\obj\Debug\net6.0\ref\FinalWork1.dll
